@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title">SharedPreferences</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="read">Read</string>
+    <string name="clear">Clear</string>
+    <string name="male_female">Male/Female</string>
+    <string name="phone_number">PhoneNumber</string>
+</resources>
